@@ -1,0 +1,18 @@
+/**
+ * Author: Dylan Kimmerling
+ *         dkimmerling2@huskers.unl.edu
+ * Date:   2021/08/26
+ *
+ * Project for CSE155E - Hack1
+ *
+ */
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char **argv) 
+{
+    
+    printf("NAME: Dylan Kimmerling!\n");
+    printf("MAJOR: Computer Science!\n");
+    
+}
