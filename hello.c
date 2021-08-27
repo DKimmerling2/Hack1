@@ -4,7 +4,8 @@
  * Date:   2021/08/26
  *
  * Project for CSE155E - Hack1
- *
+ * Prints my name and major
+ * 
  */
 #include <stdlib.h>
 #include <stdio.h>
