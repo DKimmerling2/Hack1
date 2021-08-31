@@ -16,4 +16,6 @@ int main(int argc, char **argv)
     printf("NAME: Dylan Kimmerling!\n");
     printf("MAJOR: Computer Science!\n");
     
+    printf("Aser Youssef\n");
+    printf("Computer Science\n");
 }
